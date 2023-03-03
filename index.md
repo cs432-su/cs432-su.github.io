@@ -5,23 +5,23 @@ title: ""
 ---
 
 # Announcements
-- Office hours will start in 4th week.
-- Both lab sections will meet together in online mode as explained for each lab below.
+- Office hours will start at 20.03.2023
 - CtF will be held between May 12, 21:00 - May 13, 21:00
+- All timings and mode of delivery are subject to change after early April.
 
 
 # Lab Schedule
 
-| Lab          |         Week of        |                                     Lab Activity                                     |      TA      |  Links          |
+| Lab          |         Date        |                                     Lab Activity                                     |      TA      |  Links          |
 | ------------ | :-------------------:  | :----------------------------------------------------------------------------------: | :----------: |   :----------:  |
-| Lab 0        |        20.03.2022       |                         Lab: C# socket and thread overview (Online)                         |     Simge    |   Fully Online   [link](https://sabanciuniv.zoom.us/j/91965915494?pwd=U0pqQUhtQ2I4T3JaSmNnSFYvYUJZUT09)                 |
-| Lab 1.1      |       27.03.2022       |                             Lab: C# crypto library intro (Online)                             |     Simge    |    Fully Online [link](https://sabanciuniv.zoom.us/j/91965915494?pwd=U0pqQUhtQ2I4T3JaSmNnSFYvYUJZUT09)                 |
-| Lab 1.2      |       03.04.2022       |           Lab: Crypto task. (to be graded in lab - to be extended if needed)                             |  Simge, Emre, Burcu| Online with volunteer in class [link](https://sabanciuniv.zoom.us/j/91965915494?pwd=U0pqQUhtQ2I4T3JaSmNnSFYvYUJZUT09)                     |
-| Lab 2.1      |       10.04.2022       |                                       Lab: CTFWorkshop1 (Online)                                  |     Emre    |     Fully Online [link](https://sabanciuniv.zoom.us/j/4338792918?pwd=VFkzZGNxYXIyelpyTExpc211MXZjUT09)            |
-|              |       24.04.2022       |                                Midterm Exam           |                                             |     (classrooms to be announced)     |
-| Lab 2.2      |       01.05.2022       |             Lab: CTFWorkshop2 (Online)                                 |     Emre    |     Fully Online [link](https://sabanciuniv.zoom.us/j/4338792918?pwd=VFkzZGNxYXIyelpyTExpc211MXZjUT09)            |
-| Lab 3        |       08.05.2022       |           Lab: SSL task (to be graded in lab - to be extended if needed)                                         |  Burcu, Emre, Simge  | If allowed physical [link](https://sabanciuniv.zoom.us/j/4141793585)                |
-| Lab 4        |       22.05.2022       |                                   Lab: Snort-IDS                                     |     Emre     |      Fully Online [link](https://sabanciuniv.zoom.us/j/4338792918?pwd=VFkzZGNxYXIyelpyTExpc211MXZjUT09)           |
+| Lab 0        |        24.03.2022       |                         Lab: C# socket and thread overview (Online)                         |     Simge    |   Fully Online   [link](https://sabanciuniv.zoom.us/j/91965915494?pwd=U0pqQUhtQ2I4T3JaSmNnSFYvYUJZUT09)                 |
+| Lab 1.1      |       31.03.2022       |                             Lab: C# crypto library intro (Online)                             |     Simge    |    Fully Online [link](https://sabanciuniv.zoom.us/j/91965915494?pwd=U0pqQUhtQ2I4T3JaSmNnSFYvYUJZUT09)                 |
+| Lab 1.2      |       07.04.2022       |           Lab: Crypto task. (to be graded in lab - to be extended if needed)                             |  Simge, Emre, Burcu| Online with optional participation in class [link](https://sabanciuniv.zoom.us/j/91965915494?pwd=U0pqQUhtQ2I4T3JaSmNnSFYvYUJZUT09)                     |
+| Lab 2.1      |       14.04.2022       |                                       Lab: CTFWorkshop1 (Online)                                  |     Emre    |     Fully Online [link](https://sabanciuniv.zoom.us/j/4338792918?pwd=VFkzZGNxYXIyelpyTExpc211MXZjUT09)            |
+|              |       28.04.2022       |                                Midterm Exam           |                                             |        |
+| Lab 2.2      |       05.05.2022       |             Lab: CTFWorkshop2 (Online)                                 |     Emre    |     Fully Online [link](https://sabanciuniv.zoom.us/j/4338792918?pwd=VFkzZGNxYXIyelpyTExpc211MXZjUT09)            |
+| Lab 3        |       12.05.2022       |           Lab: SSL task (to be graded in lab - to be extended if needed)                                         |  Burcu, Emre, Simge  | If allowed physical                |
+| Lab 4        |       26.05.2022       |                                   Lab: Snort-IDS                                     |     Emre     |      Fully Online [link](https://sabanciuniv.zoom.us/j/4338792918?pwd=VFkzZGNxYXIyelpyTExpc211MXZjUT09)           |
 
 
 
