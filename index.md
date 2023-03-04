@@ -34,7 +34,8 @@ title: ""
 
 # Office Hours
 
-Office Hours will be held via Zoom and the links for each assistant will be in the table below. 
+- Office Hours will be held via Zoom and the links for each assistant will be in the table below. 
+- Office hours will start at 20.03.2023
 
 
 
