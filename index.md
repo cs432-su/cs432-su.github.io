@@ -47,9 +47,9 @@ title: ""
 |   10:40   |                     |                     |                     |                     |                     |
 |   11:40   |                     |                     |                     |                     |                     |
 |   12:40   |    Office Hour (Simge) [link](https://sabanciuniv.zoom.us/j/99854937621?pwd=dWcvSTNDS3FtaWFXWWRJS3Y2VGprQT09)         |                     |               |            | Lecture  
-|   13:40   | Office Hour (Simge) [link](https://sabanciuniv.zoom.us/j/99854937621?pwd=dWcvSTNDS3FtaWFXWWRJS3Y2VGprQT09) |  Office Hour (Emre) [link](https://sabanciuniv.zoom.us/j/4338792918?pwd=VFkzZGNxYXIyelpyTExpc211MXZjUT09)                   |  Office Hour (Burcu) [link](https://sabanciuniv.zoom.us/j/98731692936)                 |                |  Lecture         |
-|   14:40   |                     |  Office Hour (Emre) [link](https://sabanciuniv.zoom.us/j/4338792918?pwd=VFkzZGNxYXIyelpyTExpc211MXZjUT09)                   |   Office Hour (Burcu) [link](https://sabanciuniv.zoom.us/j/98731692936)                    |                     |                     |
-|   15:40   |              |                     |                      |                     |                     |
+|   13:40   | Office Hour (Simge) [link](https://sabanciuniv.zoom.us/j/99854937621?pwd=dWcvSTNDS3FtaWFXWWRJS3Y2VGprQT09) |                   |  Office Hour (Burcu) [link](https://sabanciuniv.zoom.us/j/98731692936)                 |                |  Lecture         |
+|   14:40   |                     |                     |                     |   Office Hour (Emre) [link](https://sabanciuniv.zoom.us/j/4338792918?pwd=VFkzZGNxYXIyelpyTExpc211MXZjUT09)                   |   Office Hour (Burcu) [link](https://sabanciuniv.zoom.us/j/98731692936)                   |
+|   15:40   |              |                     |                      |   Office Hour (Emre) [link](https://sabanciuniv.zoom.us/j/4338792918?pwd=VFkzZGNxYXIyelpyTExpc211MXZjUT09)                    |                     |
 |   16:40   |                     |                  |    Lecture                 |                     |     Lab                |
 |   17:40   |                     |                    |                  |                     |    Lab                |
 |   18:40   |                     |                     |                  |                     |                     |
