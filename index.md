@@ -6,7 +6,7 @@ title: ""
 
 # Announcements
 - Office hours will start at 20.03.2023
-- CtF will be held between May 12, 21:00 - May 13, 21:00
+- CtF will be held between May 6, 17:00 - May 7, 19:00
 - All timings and mode of delivery are subject to change after early April.
 
 
